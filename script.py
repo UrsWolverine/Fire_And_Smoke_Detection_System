@@ -174,7 +174,7 @@ def test():
     predict ( trained_model_l, label_dict_l)
     '''dropbox authentication'''
 
-    access_token = 'Xi9f6GtIkXYAAAAAAAAAAcsV7iTZdABZtot4z-DsHUJ6uc1Rwub0CFKbYgPp-eiH'
+    access_token = 'your access Token'
     file_from = ['Latest1.jpg','Latest2.jpg', 'Latest3.jpg']
     file_to = '/User1/'
     camera_list = ['Camera1', 'Camera2', 'Camera3']
