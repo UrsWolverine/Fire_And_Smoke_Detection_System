@@ -2,7 +2,7 @@
 
 ## Overview
 
-<p>This project implements an advanced Fire and Smoke Detection System using computer vision techniques and deep learning. 
+<p>This project implements a Pre-trained model-based Fire and Smoke Detection System using computer vision techniques and deep learning. 
   The system leverages a ResNet-50 model to detect fire and smoke from camera feeds accurately and displays the results through a cross-platform application built with Flutter.</p>
 
 ## Features
